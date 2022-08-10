@@ -1,0 +1,123 @@
+.container {
+    box-sizing: border-box;
+    height: 50%;
+    width: 75%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .subContainer{
+    height: 20%;
+  }
+  
+  .custom {
+    max-width: 100%;
+    height: 20%;
+  }
+  .custom>img {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+  }
+  
+  .subContainer > div {
+    padding: 2%;
+  }
+  
+  .container > div:nth-child(1) {
+    flex-basis: 60%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .container > div:nth-child(2) {
+    flex-basis: 38%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .subContainer > div {
+    border-radius: 4px;
+    margin-top: 1%;
+  }
+  
+  .bold {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+  }
+  
+  .subContainer button {
+    width: 99%;
+    color: #fff;
+    background-color: black;
+    border-radius: 4px;
+    border: 5px solid black;
+    padding: 1% 2%;
+    margin-top: 2%;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  
+  .subContainer button:hover {
+    color: black;
+    background-color: #fff;
+  }
+  
+  .spanCont {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .spanCont > span {
+    flex-basis: 25%;
+  }
+  
+  .left_right {
+    display: flex;
+  }
+  
+  .left_right > div:nth-child(2) {
+    flex-grow: 1;
+  }
+  
+  .hover {
+    cursor: pointer;
+  }
+.c1{
+  display: flex;
+  height: 350px;
+  width: 90%;
+  margin:5% ;
+  border-radius: 4px;
+  justify-content: space-between;
+}
+.cb{
+  width: 30px;
+    height: 100%;
+    justify-content: center;
+
+}
+.cb1{
+  width:100%;
+  height:100%;
+  font-size:30px;
+  font-family: 'Courier New', Courier, monospace;
+  object-fit:fill;
+  margin-top: 1%;
+  border-radius: 50%;
+}
+.cd{
+  width: 100%;
+    height: 96%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+.pa{
+  font-size: smaller;
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+}

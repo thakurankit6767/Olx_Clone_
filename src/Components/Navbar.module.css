@@ -1,0 +1,131 @@
+
+.navbar{
+    width:100%;
+    height:200px;
+    margin-top:-10px;
+    position:fixed;
+    position: sticky;
+
+     /* position:fixed; */
+}
+
+
+
+.nav1{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    width:100%;
+    height:90px;
+    display:flex;
+    align-items: center;
+    position:fixed;
+    position: sticky;
+    /* border:1px solid brown; */
+}
+.inp1{
+    border:2px solid black;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height:50px;
+    width:300px;
+    border-radius: 5px;
+}
+*:focus {
+    outline: none;
+  }
+.n1{
+    margin-left:80px;
+    margin-right:40px;
+}
+.s1{
+  padding:10px;
+  border:white;
+  text-decoration: none; 
+  font-size:16px; 
+}
+.inp2{
+    display:flex;
+    width:500px;
+    border:2px solid black;
+    margin-left:30px;
+    border-radius: 5px;
+}
+.s2{
+    
+  border:white;
+  text-decoration: none; 
+  font-size:16px;
+  width:100%;
+  padding:10px;
+
+}
+.last{
+    display:flex;
+    /* border:1px solid blue; */
+    width:450px;
+    height:100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+.nav2{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    width:100%;
+    height:60px;
+    display:flex;
+
+}
+.a{
+    margin-bottom: 20px;
+}
+.nav2a{
+    display:flex;
+    width:200px;
+    /* border:1px solid yellowgreen; */
+    height:100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 40px;
+}
+.nav2a{
+    font-size:18px;
+}
+.nav2b{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 16px;
+    text-decoration: none;
+    width:80%;
+    /* border:1px solid blue; */
+
+
+}
+*:focus {
+    outline: blue;
+  }
+  div>a{
+    color:black;
+    text-decoration: none;
+}
+.dd{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    width:80%;
+    /* height:700px; */
+    margin:auto;
+    display:flex;
+    justify-content: space-between;
+}
+a{
+    color:black;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+a:hover {
+    color: rgb(35,229,219);
+  }
+  select>option{
+    outline: none;
+    text-decoration: none;
+  }

@@ -1,0 +1,28 @@
+.head{
+    background-image:url("https://statics.olx.in/olxin/banners/hero_bg_in_v2@1x.png") ;
+    height: 135px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    margin-top: 10px;
+    top: 112px;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+.bt{
+    margin-left: 50%;
+    margin-top: 60px;
+    background-color: antiquewhite;
+    height: 40px;
+    width: 102px;
+    border-radius: 4px;
+    font-family: Roboto,Arial,Helvetica,sans-serif;
+}
+.listview{
+    margin-top: 4%;
+}
+.ho{
+    margin: 4%;
+}

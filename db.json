@@ -1,0 +1,4077 @@
+{
+  "cars":[
+      {
+  "id": 1,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/y17t0ga5v3jd2-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,80,000",
+  "year": "2018",
+  "distance": "57,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Assam",
+  "category": "cars",
+  "brand": "Maruti Suzuki",
+  "model": "Swift Dzire",
+  "transmission": "Manual",
+  "product_desc": "Chevrolet Cruze 2011",
+  "type":"cars"
+},
+{
+  "id": 2,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/9g814e1dezx7-IN/image;s=300x600;q=60"
+  ],
+  "price": "5,67,000",
+  "year": "2017",
+  "distance": "37,928",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Assam",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 3,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cnazxhzzscz71-IN/image;s=300x600;q=60"
+  ],
+  "price": "7,75,000",
+  "year": "2016",
+  "distance": "19,101",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Assam",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 4,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/i7q5dwaz6ntd-IN/image;s=300x600;q=60"
+  ],
+  "price": "6,72,000",
+  "year": "2018",
+  "distance": "38,282",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "category": "cars",
+  "brand": "Mercedes-Benz",
+  "model": "CLA",
+  "transmission": "Automatic",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 5,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/9g814e1dezx7-IN/image;s=300x600;q=60"
+  ],
+  "price": "6,25,000",
+  "year": "2013",
+  "distance": "28,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 6,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/g8pw4y64t5v33-IN/image;s=300x600;q=60"
+  ],
+  "price": "4,75,000",
+  "year": "2014",
+  "distance": "37,282",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "6 June",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sahu Motors",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "category": "cars",
+  "brand": "Mercedes-Benz",
+  "model": "CLA",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+
+},
+{
+  "id": 7,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,75,000",
+  "year": "2017",
+  "distance": "35,171",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "3 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghosh Motors",
+  "memeberSince": "Aug 2018",
+  "phone": "9876543210",
+  "state": "Goa",
+  "category": "cars",
+  "brand": "Mercedes-Benz",
+  "model": "CLA",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+
+},
+{
+  "id": 8,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1nlkmrvseop41-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,45,000",
+  "year": "2010",
+  "distance": "38,383",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Goa",
+  "category": "cars",
+  "brand": "Jaguar",
+  "model": "XJ",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+
+},
+{
+  "id": 9,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,75,000",
+  "year": "2010",
+  "distance": "37,172",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Verma Wheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Uttar Pradesh",
+  "category": "cars",
+  "brand": "Mercedes-Benz",
+  "model": "CLA",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+
+},
+{
+  "id": 10,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1nlkmrvseop41-IN/image;s=300x600;q=60"
+  ],
+  "price": "6,75,000",
+  "year": "2017",
+  "distance": "28,928",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 2,
+  "isFeatured": "false",
+  "sellerName": "Rajesh Motors",
+  "memeberSince": "Jan 2016",
+  "phone": "9876543210",
+  "state": "Uttar Pradesh",
+  "category": "cars",
+  "brand": "Land Rover",
+  "model": "Discovery",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Land Rover Discovery HSE Sportz 2.0 (7 seater) model 2018 in grey colour,very well maintained car from the authorized service centre, Leather seats with electronic adjustable, push pull and Adjustable multifunctional steering wheel , front and rear airbags ,climate control dual A/C, push button start, touch screen stereo, parking sensor and camera also fitted, car is in excellent condition.",
+  "type":"cars"
+
+},
+{
+  "id": 11,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "5,75,000",
+  "year": "2010",
+  "distance": "38,922",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "26 April",
+  "totalOwners": 2,
+  "isFeatured": "false",
+  "sellerName": "Rajat Sahu",
+  "memeberSince": "Sep 2012",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "cars",
+  "brand": "Jaguar",
+  "model": "XJ",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+
+},
+{
+  "id": 12,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/eeabo4a0zjqw1-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,75,000",
+  "year": "2016",
+  "distance": "93,928",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "20 May",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sharma Motors",
+  "memeberSince": "Feb 2015",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "cars",
+  "brand": "Land Rover",
+  "model": "Discovery",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Land Rover Discovery HSE Sportz 2.0 (7 seater) model 2018 in grey colour,very well maintained car from the authorized service centre, Leather seats with electronic adjustable, push pull and Adjustable multifunctional steering wheel , front and rear airbags ,climate control dual A/C, push button start, touch screen stereo, parking sensor and camera also fitted, car is in excellent condition.",
+  "type":"cars"
+
+},
+{
+  "id": 13,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/eeabo4a0zjqw1-IN/image;s=300x600;q=60"
+  ],
+  "price": "5,75,000",
+  "year": "2016",
+  "distance": "37,292",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Oct 2012",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "cars",
+  "brand": "Land Rover",
+  "model": "Discovery",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Land Rover Discovery HSE Sportz 2.0 (7 seater) model 2018 in grey colour,very well maintained car from the authorized service centre, Leather seats with electronic adjustable, push pull and Adjustable multifunctional steering wheel , front and rear airbags ,climate control dual A/C, push button start, touch screen stereo, parking sensor and camera also fitted, car is in excellent condition.",
+  "type":"cars"
+
+},
+{
+  "id": 14,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "7,75,000",
+  "year": "2015",
+  "distance": "20,926",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Kapil Pant",
+  "memeberSince": "Sep 2014",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "cars",
+  "brand": "Jaguar",
+  "model": "XJ",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+
+},
+{
+  "id": 15,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1nlkmrvseop41-IN/image;s=300x600;q=60"
+  ],
+  "price": "4,75,000",
+  "year": "2013",
+  "distance": "65,222",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Kiran",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+
+},
+{
+  "id": 16,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1nlkmrvseop41-IN/image;s=300x600;q=60"
+  ],
+  "price": "4,75,000",
+  "year": "2017",
+  "distance": "38,926",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Sep 2016",
+  "phone": "9876543210",
+  "state": "Maharashtra",
+  "category": "cars",
+  "brand": "Land Rover",
+  "model": "Discovery",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Land Rover Discovery HSE Sportz 2.0 (7 seater) model 2018 in grey colour,very well maintained car from the authorized service centre, Leather seats with electronic adjustable, push pull and Adjustable multifunctional steering wheel , front and rear airbags ,climate control dual A/C, push button start, touch screen stereo, parking sensor and camera also fitted, car is in excellent condition.",
+  "type":"cars"
+},
+{
+  "id": 17,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "4,75,000",
+  "year": "2020",
+  "distance": "20,000",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "4 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Albert",
+  "memeberSince": "Apr 2019",
+  "phone": "9876543210",
+  "state": "Maharashtra",
+  "category": "cars",
+  "brand": "Jaguar",
+  "model": "XJ",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 18,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/y17t0ga5v3jd2-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,80,000",
+  "year": "2018",
+  "distance": "57,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Maharashtra",
+  "category": "cars",
+  "brand": "Maruti Suzuki",
+  "model": "Swift Dzire",
+  "transmission": "Manual",
+  "product_desc": "Chevrolet Cruze 2011",
+  "type":"cars"
+},
+{
+  "id": 19,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/9g814e1dezx7-IN/image;s=300x600;q=60"
+  ],
+  "price": "5,67,000",
+  "year": "2017",
+  "distance": "37,928",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Maharashtra",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 20,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cnazxhzzscz71-IN/image;s=300x600;q=60"
+  ],
+  "price": "7,75,000",
+  "year": "2016",
+  "distance": "19,101",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Maharashtra",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 21,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/i7q5dwaz6ntd-IN/image;s=300x600;q=60"
+  ],
+  "price": "6,72,000",
+  "year": "2018",
+  "distance": "38,282",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "Karnataka",
+  "category": "cars",
+  "brand": "Mercedes-Benz",
+  "model": "CLA",
+  "transmission": "Automatic",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 22,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cnazxhzzscz71-IN/image;s=300x600;q=60"
+  ],
+  "price": "6,25,000",
+  "year": "2013",
+  "distance": "28,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "Karnataka",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 23,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/g8pw4y64t5v33-IN/image;s=300x600;q=60"
+  ],
+  "price": "4,75,000",
+  "year": "2014",
+  "distance": "37,282",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "6 June",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sahu Motors",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Karnataka",
+  "category": "cars",
+  "brand": "Mercedes-Benz",
+  "model": "CLA",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 24,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,75,000",
+  "year": "2017",
+  "distance": "35,171",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "3 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghosh Motors",
+  "memeberSince": "Aug 2018",
+  "phone": "9876543210",
+  "state": "Karnataka",
+  "category": "cars",
+  "brand": "Mercedes-Benz",
+  "model": "CLA",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 25,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1nlkmrvseop41-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,45,000",
+  "year": "2010",
+  "distance": "38,383",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Karnataka",
+  "category": "cars",
+  "brand": "Jaguar",
+  "model": "XJ",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 25,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,75,000",
+  "year": "2010",
+  "distance": "37,172",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Verma Wheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Karnataka",
+  "category": "cars",
+  "brand": "Mercedes-Benz",
+  "model": "CLA",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 27,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1nlkmrvseop41-IN/image;s=300x600;q=60"
+  ],
+  "price": "6,75,000",
+  "year": "2017",
+  "distance": "28,928",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 2,
+  "isFeatured": "false",
+  "sellerName": "Rajesh Motors",
+  "memeberSince": "Jan 2016",
+  "phone": "9876543210",
+  "state": "Karnataka",
+  "category": "cars",
+  "brand": "Land Rover",
+  "model": "Discovery",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Land Rover Discovery HSE Sportz 2.0 (7 seater) model 2018 in grey colour,very well maintained car from the authorized service centre, Leather seats with electronic adjustable, push pull and Adjustable multifunctional steering wheel , front and rear airbags ,climate control dual A/C, push button start, touch screen stereo, parking sensor and camera also fitted, car is in excellent condition.",
+  "type":"cars"
+},
+{
+  "id": 28,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "5,75,000",
+  "year": "2010",
+  "distance": "38,922",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "26 April",
+  "totalOwners": 2,
+  "isFeatured": "false",
+  "sellerName": "Rajat Sahu",
+  "memeberSince": "Sep 2012",
+  "phone": "9876543210",
+  "state": "Gujarat",
+  "category": "cars",
+  "brand": "Jaguar",
+  "model": "XJ",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 29,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/eeabo4a0zjqw1-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,75,000",
+  "year": "2016",
+  "distance": "93,928",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "20 May",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sharma Motors",
+  "memeberSince": "Feb 2015",
+  "phone": "9876543210",
+  "state": "Gujarat",
+  "category": "cars",
+  "brand": "Land Rover",
+  "model": "Discovery",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Land Rover Discovery HSE Sportz 2.0 (7 seater) model 2018 in grey colour,very well maintained car from the authorized service centre, Leather seats with electronic adjustable, push pull and Adjustable multifunctional steering wheel , front and rear airbags ,climate control dual A/C, push button start, touch screen stereo, parking sensor and camera also fitted, car is in excellent condition.",
+  "type":"cars"
+},
+{
+  "id": 30,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/eeabo4a0zjqw1-IN/image;s=300x600;q=60"
+  ],
+  "price": "5,75,000",
+  "year": "2016",
+  "distance": "37,292",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Oct 2012",
+  "phone": "9876543210",
+  "state": "Gujarat",
+  "category": "cars",
+  "brand": "Land Rover",
+  "model": "Discovery",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Land Rover Discovery HSE Sportz 2.0 (7 seater) model 2018 in grey colour,very well maintained car from the authorized service centre, Leather seats with electronic adjustable, push pull and Adjustable multifunctional steering wheel , front and rear airbags ,climate control dual A/C, push button start, touch screen stereo, parking sensor and camera also fitted, car is in excellent condition.",
+  "type":"cars"
+},
+{
+  "id": 31,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "7,75,000",
+  "year": "2015",
+  "distance": "20,926",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Kapil Pant",
+  "memeberSince": "Sep 2014",
+  "phone": "9876543210",
+  "state": "Gujarat",
+  "category": "cars",
+  "brand": "Jaguar",
+  "model": "XJ",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 32,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1nlkmrvseop41-IN/image;s=300x600;q=60"
+  ],
+  "price": "4,75,000",
+  "year": "2013",
+  "distance": "65,222",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Kiran",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Kerala",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 33,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1nlkmrvseop41-IN/image;s=300x600;q=60"
+  ],
+  "price": "4,75,000",
+  "year": "2017",
+  "distance": "38,926",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Sep 2016",
+  "phone": "9876543210",
+  "state": "Kerala",
+  "category": "cars",
+  "brand": "Land Rover",
+  "model": "Discovery",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Land Rover Discovery HSE Sportz 2.0 (7 seater) model 2018 in grey colour,very well maintained car from the authorized service centre, Leather seats with electronic adjustable, push pull and Adjustable multifunctional steering wheel , front and rear airbags ,climate control dual A/C, push button start, touch screen stereo, parking sensor and camera also fitted, car is in excellent condition.",
+  "type":"cars"
+},
+{
+  "id": 34,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/sgik65cx5bti1-IN/image;s=300x600;q=60"
+  ],
+  "price": "4,75,000",
+  "year": "2020",
+  "distance": "20,000",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "4 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Albert",
+  "memeberSince": "Apr 2019",
+  "phone": "9876543210",
+  "state": "Kerala",
+  "category": "cars",
+  "brand": "Jaguar",
+  "model": "XJ",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+}
+],
+"motorcyles":[
+{
+  "id": 1,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/n3lknl74twfj-IN/image;s=300x600;q=60"
+  ],
+  "price": "38,000",
+  "year": "2018",
+  "distance": "57,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Kerala",
+  "category": "motorcycles",
+  "brand": "Honda",
+  "model": "CB",
+  "transmission": "Manual",
+  "product_desc": "Fix price no bargaining, Fix price no bargaining",
+  "type":"motorcyles"
+},
+{
+  "id": 2,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/0bg2cqqvmfbq3-IN/image;s=300x600;q=60"
+  ],
+  "price": "57,000",
+  "year": "2017",
+  "distance": "37,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Kerala",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 3,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/f2cq5n8431ta1-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2016",
+  "distance": "19,101",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Kerala",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 4,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/huhly9gz62651-IN/image;s=300x600;q=60"
+  ],
+  "price": "62,000",
+  "year": "2018",
+  "distance": "38,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Automatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 5,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/t93ng6uw1gxd1-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2013",
+  "distance": "28,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 6,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/qogow6y9yu092-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2014",
+  "distance": "37,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "6 June",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sahu Motors",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "motorcycles",
+  "brand": "Bullet",
+  "model": "Standard",
+  "transmission": "Manual",
+  "product_desc": "Bullet Standard NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 7,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/jy8v6itd9pgp2-IN/image;s=300x600;q=60"
+  ],
+  "price": "85,000",
+  "year": "2017",
+  "distance": "35,171",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "3 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghosh Motors",
+  "memeberSince": "Aug 2018",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 8,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/66shd3drnxns2-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "year": "2010",
+  "distance": "38,383",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Punjab",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 9,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/heclb5awtc5o1-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2010",
+  "distance": "37,172",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Verma Wheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Punjab",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 10,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/x3sg4werllgo2-IN/image;s=300x600;q=60"
+  ],
+  "price": "25,000",
+  "year": "2017",
+  "distance": "28,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 2,
+  "isFeatured": "false",
+  "sellerName": "Rajesh Motors",
+  "memeberSince": "Jan 2016",
+  "phone": "9876543210",
+  "state": "Punjab",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 11,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/rjkgv0kx805r1-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2010",
+  "distance": "38,922",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "26 April",
+  "totalOwners": 2,
+  "isFeatured": "false",
+  "sellerName": "Rajat Sahu",
+  "memeberSince": "Sep 2012",
+  "phone": "9876543210",
+  "state": "Punjab",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 12,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1s2ca9iweb163-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2016",
+  "distance": "93,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "20 May",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sharma Motors",
+  "memeberSince": "Feb 2015",
+  "phone": "9876543210",
+  "state": "Punjab",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 13,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ueyzjnbhxuoq1-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2016",
+  "distance": "37,292",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Oct 2012",
+  "phone": "9876543210",
+  "state": "Punjab",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 14,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/2jpb99i48rn81-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2015",
+  "distance": "20,926",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Kapil Pant",
+  "memeberSince": "Sep 2014",
+  "phone": "9876543210",
+  "state": "Goa",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 15,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/t93ng6uw1gxd1-IN/image;s=300x600;q=60"
+  ],
+  "price": "55,000",
+  "year": "2013",
+  "distance": "65,222",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Kiran",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Goa",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 16,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/3w1xhwtah325-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2017",
+  "distance": "38,926",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Sep 2016",
+  "phone": "9876543210",
+  "state": "Goa",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 17,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/8i6eu65ekt9l1-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "year": "2020",
+  "distance": "20,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "4 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Albert",
+  "memeberSince": "Apr 2019",
+  "phone": "9876543210",
+  "state": "Goa",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 18,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/1loz455lg4ei2-IN/image;s=300x600;q=60"
+  ],
+  "price": "38,000",
+  "year": "2018",
+  "distance": "57,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Goa",
+  "category": "motorcycles",
+  "brand": "Honda",
+  "model": "CB",
+  "transmission": "Manual",
+  "product_desc": "Fix price no bargaining, Fix price no bargaining",
+  "type":"motorcyles"
+},
+{
+  "id": 19,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/t93ng6uw1gxd1-IN/image;s=300x600;q=60"
+  ],
+  "price": "57,000",
+  "year": "2017",
+  "distance": "37,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Goa",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 20,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/y0fwjuthpzrb3-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2016",
+  "distance": "19,101",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Sikkim",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 21,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/y0fwjuthpzrb3-IN/image;s=300x600;q=60"
+  ],
+  "price": "62,000",
+  "year": "2018",
+  "distance": "38,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "Sikkim",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Automatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 22,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/t93ng6uw1gxd1-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2013",
+  "distance": "28,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "Sikkim",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 23,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/3sgtkqe91cgi1-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2014",
+  "distance": "37,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "6 June",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sahu Motors",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Sikkim",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 24,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/jy8v6itd9pgp2-IN/image;s=300x600;q=60"
+  ],
+  "price": "85,000",
+  "year": "2017",
+  "distance": "35,171",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "3 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghosh Motors",
+  "memeberSince": "Aug 2018",
+  "phone": "9876543210",
+  "state": "Sikkim",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 25,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/drbi03h932e73-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "year": "2010",
+  "distance": "38,383",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Sikkim",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 26,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/t93ng6uw1gxd1-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2010",
+  "distance": "37,172",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Verma Wheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 27,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/g339e9f4ebk33-IN/image;s=300x600;q=60"
+  ],
+  "price": "25,000",
+  "year": "2017",
+  "distance": "28,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 2,
+  "isFeatured": "false",
+  "sellerName": "Rajesh Motors",
+  "memeberSince": "Jan 2016",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+}
+],
+
+"scooter":[
+{
+  "id": 1,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cco69t3dt9yt3-IN/image;s=300x600;q=60"
+  ],
+  "price": "38,000",
+  "year": "2018",
+  "distance": "57,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "scooters",
+  "brand": "Honda",
+  "model": "CB",
+  "transmission": "Manual",
+  "product_desc": "Fix price no bargaining, Fix price no bargaining",
+  "type":"scooter"
+},
+{
+  "id": 2,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/r9ocm2xngwv72-IN/image;s=300x600;q=60"
+  ],
+  "price": "57,000",
+  "year": "2017",
+  "distance": "37,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 3,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/r9ocm2xngwv72-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2016",
+  "distance": "19,101",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 4,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cco69t3dt9yt3-IN/image;s=300x600;q=60"
+  ],
+  "price": "62,000",
+  "year": "2018",
+  "distance": "38,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Automatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 5,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/q7lzqkyn393w3-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2013",
+  "distance": "28,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "Andhra Pradesh",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 6,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/yqbh5kgtwz182-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2014",
+  "distance": "37,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "6 June",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sahu Motors",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Andhra Pradesh",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 7,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/p1u184vhqwlb3-IN/image;s=300x600;q=60"
+  ],
+  "price": "85,000",
+  "year": "2017",
+  "distance": "35,171",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "3 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghosh Motors",
+  "memeberSince": "Aug 2018",
+  "phone": "9876543210",
+  "state": "Andhra Pradesh",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 8,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ryag23wjvyqc3-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "year": "2010",
+  "distance": "38,383",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Andhra Pradesh",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 9,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/q7lzqkyn393w3-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2010",
+  "distance": "37,172",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Verma Wheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Andhra Pradesh",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 10,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/awu7rowqdiph-IN/image;s=300x600;q=60"
+  ],
+  "price": "25,000",
+  "year": "2017",
+  "distance": "28,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 2,
+  "isFeatured": "false",
+  "sellerName": "Rajesh Motors",
+  "memeberSince": "Jan 2016",
+  "phone": "9876543210",
+  "state": "Bihar",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 11,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/awu7rowqdiph-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2010",
+  "distance": "38,922",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "26 April",
+  "totalOwners": 2,
+  "isFeatured": "false",
+  "sellerName": "Rajat Sahu",
+  "memeberSince": "Sep 2012",
+  "phone": "9876543210",
+  "state": "Bihar",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 12,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/yqbh5kgtwz182-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2016",
+  "distance": "93,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "20 May",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sharma Motors",
+  "memeberSince": "Feb 2015",
+  "phone": "9876543210",
+  "state": "Bihar",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 13,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/p8kn36zxq1he3-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2016",
+  "distance": "37,292",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Oct 2012",
+  "phone": "9876543210",
+  "state": "Bihar",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 14,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/awu7rowqdiph-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2015",
+  "distance": "20,926",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Kapil Pant",
+  "memeberSince": "Sep 2014",
+  "phone": "9876543210",
+  "state": "Bihar",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 15,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/6t5w2peg1x8u1-IN/image;s=300x600;q=60"
+  ],
+  "price": "55,000",
+  "year": "2013",
+  "distance": "65,222",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Kiran",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Bihar",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 16,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/uo1mm2i8ax7n1-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2017",
+  "distance": "38,926",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Sep 2016",
+  "phone": "9876543210",
+  "state": "Jharkhand",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "ManualAutomatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 17,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/p8kn36zxq1he3-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "year": "2020",
+  "distance": "20,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "4 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Albert",
+  "memeberSince": "Apr 2019",
+  "phone": "9876543210",
+  "state": "Jharkhand",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 18,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cco69t3dt9yt3-IN/image;s=300x600;q=60"
+  ],
+  "price": "38,000",
+  "year": "2018",
+  "distance": "57,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Jharkhand",
+  "category": "scooters",
+  "brand": "Honda",
+  "model": "CB",
+  "transmission": "Manual",
+  "product_desc": "Fix price no bargaining, Fix price no bargaining"
+  ,"type":"scooter"
+},
+{
+  "id": 19,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/r9ocm2xngwv72-IN/image;s=300x600;q=60"
+  ],
+  "price": "57,000",
+  "year": "2017",
+  "distance": "37,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Jharkhand",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 20,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/r9ocm2xngwv72-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2016",
+  "distance": "19,101",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Jharkhand",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 21,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cco69t3dt9yt3-IN/image;s=300x600;q=60"
+  ],
+  "price": "62,000",
+  "year": "2018",
+  "distance": "38,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "Jharkhand",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Automatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 22,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/q7lzqkyn393w3-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2013",
+  "distance": "28,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "Rajasthan",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 23,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/yqbh5kgtwz182-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2014",
+  "distance": "37,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "6 June",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sahu Motors",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Rajasthan",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 24,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/p1u184vhqwlb3-IN/image;s=300x600;q=60"
+  ],
+  "price": "85,000",
+  "year": "2017",
+  "distance": "35,171",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "3 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Ghosh Motors",
+  "memeberSince": "Aug 2018",
+  "phone": "9876543210",
+  "state": "Rajasthan",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 25,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ryag23wjvyqc3-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "year": "2010",
+  "distance": "38,383",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Rajasthan",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 26,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/q7lzqkyn393w3-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "year": "2010",
+  "distance": "37,172",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "Verma Wheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Rajasthan",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"scooter"
+}
+],
+"clothes":[
+{
+  "id": 1,
+  "product_name": "T-shirt",
+  "img": "https://www.apetogentleman.com/wp-content/uploads/2019/06/best-mens-tshirts.jpg",
+  "product_desc": "Quia et suscipit ostrum Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae u  autem sunt rem eveniet architecto",
+  "price": "500",
+  "rating": 4.3,
+  "category": "mens",
+  "type":"clothes"
+},
+{
+  "id": 2,
+  "product_name": "Jeans",
+  "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gh-jeans-index-1552316663.png?crop=0.941xw:0.936xh;0.0304xw,0.0639xh&resize=1200:*",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "300",
+  "rating": 4.3,
+  "category": "mens",
+  "type":"clothes"
+},
+{
+  "id": 3,
+  "product_name": "Cargo",
+  "img": "https://5.imimg.com/data5/GP/MD/MY-49357258/mens-cargo-pant-500x500.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "400",
+  "rating": 4.3,
+  "category": "mens"
+  ,"type":"clothes"
+},
+{
+  "id": 4,
+  "product_name": "Shirts",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkD86VMIvuOUAne-qdiwi1m0dbk-f6Ou-3-Q&usqp=CAU",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "505",
+  "rating": 4.3,
+  "category": "unisex"
+  ,"type":"clothes"
+},
+{
+  "id": 5,
+  "product_name": "Jacket",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51-cw1DQaGL._AC_UL1000_.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "510",
+  "rating": 4.3,
+  "category": "mens",
+  "type":"clothes"
+},
+{
+  "id": 6,
+  "product_name": "Swet-Shirt",
+  "img": "https://i.pinimg.com/474x/da/a9/1b/daa91b58be0755b523ddef83742e6bee.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "560",
+  "rating": 4.3,
+  "category": "womens",
+  "type":"clothes"
+},
+{
+  "id": 7,
+  "product_name": "Hoddie",
+  "img": "https://tiimg.tistatic.com/fp/1/005/738/mens-woolen-hoddie-sweatshirt--422.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "500",
+  "rating": 4.3,
+  "category": "unisex",
+  "type":"clothes"
+},
+{
+  "id": 8,
+  "product_name": "Scarf",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/71sphkJiuSL._UX679_.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "520",
+  "rating": 4.3,
+  "category": "womens",
+  "type":"clothes"
+},
+{
+  "id": 9,
+  "product_name": "Gloves",
+  "img": "https://www.gannett-cdn.com/presto/2020/12/15/USAT/2981f7bd-255e-4576-88c1-600f28d2d008-winter-gloves-hero.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "570",
+  "rating": 4.3,
+  "category": "unisex",
+  "type":"clothes"
+}
+],
+"accessories":[
+{
+  "id": 1,
+  "product_name": "HP Laptop",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51y8P2rYc5L._AC_SX425_.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "35,000",
+  "rating": 4.3,
+  "category": "laptops",
+  "type":"accessories"
+},
+{
+  "id": 2,
+  "product_name": "RedMI",
+  "img": "https://i01.appmifile.com/webfile/globalimg/in/cms/AB364A54-1B83-9A20-B4F3-05BCE9135921.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "10,000",
+  "rating": 4.3,
+  "category": "mobiles",
+  "type":"accessories"
+},
+{
+  "id": 3,
+  "product_name": "Boats Headphones",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/61US9yCTRJL._SL1500_.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "1,599",
+  "rating": 4.3,
+  "category": "headphones",
+  "type":"accessories"
+},
+{
+  "id": 4,
+  "product_name": "Samsung Headphones",
+  "img": "https://images.samsung.com/is/image/samsung/ie-wireless-akg-headphones-y600nc-gp-y600hahcaaa-dynamicblack-thumb-266944681?$LazyLoad_Home_IMG$",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "2,999",
+  "rating": 4.3,
+  "category": "headphones",
+  "type":"accessories"
+},
+{
+  "id": 5,
+  "product_name": "Asus",
+  "img": "https://i.gadgets360cdn.com/products/large/asus-vivobook15-x509-1287x800-1567590182.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "39,999",
+  "rating": 4.3,
+  "category": "laptops",
+  "type":"accessories"
+},
+{
+  "id": 6,
+  "product_name": "Micromax",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4CHuRbSp5qg0Cd9fEqbq3eLbT_ZJKwYTmgQ&usqp=CAU",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "11,559",
+  "rating": 4.3,
+  "category": "mobiles",
+  "type":"accessories"
+},
+{
+  "id": 7,
+  "product_name": "Apple",
+  "img": "https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-Pro-Max-1.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "79,999",
+  "rating": 4.3,
+  "category": "mobiles",
+  "type":"accessories"
+},
+{
+  "id": 8,
+  "product_name": "Sony Headphones",
+  "img": "https://5.imimg.com/data5/UR/XE/MY-49120912/sony-mdr-xb450-on-ear-extra-bass-headphones-28red-29-500x500.png",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "2,000",
+  "rating": 4.3,
+  "category": "headphones",
+  "type":"accessories"
+},
+{
+  "id": 9,
+  "product_name": "Samsung Mobile",
+  "img": "https://images.samsung.com/is/image/samsung/assets/in/z-fold2-m.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "15,999",
+  "rating": 4.3,
+  "category": "mobiles",
+  "type":"accessories"
+}
+],
+"electronics":[
+{
+  "id": 1,
+  "product_name": "Samsung Microwave",
+  "img": "https://images.samsung.com/is/image/samsung/in-21-litre-convection-microwave-oven-ce73jd-b-ce73jd-b-xtl-Black-121357600?$720_576_PNG$",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "500",
+  "rating": 4.3,
+  "category": "microwave",
+  "type":"electronics"
+},
+{
+  "id": 2,
+  "product_name": "MI LED TV",
+  "img": "https://global.appmifile.com/webfile/globalimg/in/cms/A7442D32-F379-BD0A-4B22-A262258E2756.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "300",
+  "rating": 4.3,
+  "category": "television",
+  "type":"electronics"
+},
+{
+  "id": 3,
+  "product_name": "Koryo Microwave",
+  "img": "https://www.hometown.in/media/product/19/0163/58389/1.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "400",
+  "rating": 4.3,
+  "category": "microwave",
+  "type":"electronics"
+},
+{
+  "id": 4,
+  "product_name": "Samsung Refrigerator",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/71O31clz6mL._SL1500_.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "505",
+  "rating": 4.3,
+  "category": "refrigerator",
+  "type":"electronics"
+},
+{
+  "id": 5,
+  "product_name": "Smasung 32 inch",
+  "img": "https://images.samsung.com/is/image/samsung/in-hd-tv-te40a-ua32te40aakxxl-frontgray-231880322?$720_576_PNG$",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "510",
+  "rating": 4.3,
+  "category": "television",
+  "type":"electronics"
+},
+{
+  "id": 6,
+  "product_name": "Haier Microwave",
+  "img": "https://rukminim1.flixcart.com/image/416/416/kcz4rrk0/microwave-new/w/3/5/hil3001cbsh-haier-original-imaftz57hmgny73d.jpeg?q=70",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "560",
+  "rating": 4.3,
+  "category": "microwave",
+  "type":"electronics"
+},
+{
+  "id": 7,
+  "product_name": "Whirlpool",
+  "img": "https://www.reliancedigital.in/medias/Whirlpool-DoubleDoor-Refrigerator-491666493-i-2-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNjQ3OTF8aW1hZ2UvanBlZ3xpbWFnZXMvaDQ4L2g5YS85MzU1ODUyNjc3MTUwLmpwZ3xlNmVjNjJiMDBiODNkOWQ3MzM2YTY3MzU1Zjc1OTdjZWEwZDc2ZWQzN2QwZDMyMTJmMjE3YWQ5YjI5MzYyOGIw",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "500",
+  "rating": 4.3,
+  "category": "refrigerator",
+  "type":"electronics"
+},
+{
+  "id": 8,
+  "product_name": "Sony Smart LED",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/81kezz4E4oL._AC_SX679_.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "520",
+  "rating": 4.3,
+  "category": "television",
+  "type":"electronics"
+},
+{
+  "id": 9,
+  "product_name": "LG Refrigerator",
+  "img": "https://www.sathya.in/Media/Default/Thumbs/0029/0029021-lg-fridge-gld241argy.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "570",
+  "rating": 4.3,
+  "category": "refrigerator",
+  "type":"electronics"
+}
+],
+"rentHouse":[
+{
+  "id": 1,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/bqeoarg2hdo01-IN/image;s=300x600;q=60"
+  ],
+  "price": "38,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Rajasthan",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 2,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/k8rfxxlbcrtf2-IN/image;s=300x600;q=60"
+  ],
+  "price": "57,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Rajasthan",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 3,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/k8rfxxlbcrtf2-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Rajasthan",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 4,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/bqeoarg2hdo01-IN/image;s=300x600;q=60"
+  ],
+  "price": "62,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "Telangana",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 5,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/a7fup0xdxxbr-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "Telangana",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 6,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+  ],
+  "price": "85,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "6 June",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sahu Motors",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Telangana",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 7,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/fr8trhtar5nc-IN/image;s=300x600;q=60"
+  ],
+  "price": "85,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "3 June",
+  "isFeatured": "false",
+  "sellerName": "Ghosh Motors",
+  "memeberSince": "Aug 2018",
+  "phone": "9876543210",
+  "state": "Telangana",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 8,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/3i523blt2cze2-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Telangana",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 9,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/a7fup0xdxxbr-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "isFeatured": "false",
+  "sellerName": "Verma Wheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Tamil Nadu",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 10,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "25,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Rajesh Motors",
+  "memeberSince": "Jan 2016",
+  "phone": "9876543210",
+  "state": "Tamil Nadu",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 11,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "26 April",
+  "isFeatured": "false",
+  "sellerName": "Rajat Sahu",
+  "memeberSince": "Sep 2012",
+  "phone": "9876543210",
+  "state": "Tamil Nadu",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 12,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "20 May",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sharma Motors",
+  "memeberSince": "Feb 2015",
+  "phone": "9876543210",
+  "state": "Tamil Nadu",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 13,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Oct 2012",
+  "phone": "9876543210",
+  "state": "Tamil Nadu",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 14,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "isFeatured": "false",
+  "sellerName": "Kapil Pant",
+  "memeberSince": "Sep 2014",
+  "phone": "9876543210",
+  "state": "Tamil Nadu",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 15,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/6t5w2peg1x8u1-IN/image;s=300x600;q=60"
+  ],
+  "price": "55,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "isFeatured": "false",
+  "sellerName": "Kiran",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Tamil Nadu",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 16,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/qisc05vvjhyq-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Sep 2016",
+  "phone": "9876543210",
+  "state": "Tamil Nadu",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 17,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "4 June",
+  "isFeatured": "false",
+  "sellerName": "Albert",
+  "memeberSince": "Apr 2019",
+  "phone": "9876543210",
+  "state": "Uttarakhand",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 18,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/3i523blt2cze2-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Uttarakhand",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 19,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/a7fup0xdxxbr-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "isFeatured": "false",
+  "sellerName": "Verma Wheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Uttarakhand",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 20,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "25,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Rajesh Motors",
+  "memeberSince": "Jan 2016",
+  "phone": "9876543210",
+  "state": "Uttarakhand",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 21,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "26 April",
+  "isFeatured": "false",
+  "sellerName": "Rajat Sahu",
+  "memeberSince": "Sep 2012",
+  "phone": "9876543210",
+  "state": "Uttarakhand",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 22,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "20 May",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sharma Motors",
+  "memeberSince": "Feb 2015",
+  "phone": "9876543210",
+  "state": "Uttarakhand",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 23,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Oct 2012",
+  "phone": "9876543210",
+  "state": "Mizoram",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 24,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "isFeatured": "false",
+  "sellerName": "Kapil Pant",
+  "memeberSince": "Sep 2014",
+  "phone": "9876543210",
+  "state": "Mizoram",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 25,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/6t5w2peg1x8u1-IN/image;s=300x600;q=60"
+  ],
+  "price": "55,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "isFeatured": "false",
+  "sellerName": "Kiran",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Mizoram",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 26,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/qisc05vvjhyq-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Sep 2016",
+  "phone": "9876543210",
+  "state": "Mizoram",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+},
+{
+  "id": 27,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+  ],
+  "price": "45,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "4 June",
+  "isFeatured": "false",
+  "sellerName": "Albert",
+  "memeberSince": "Apr 2019",
+  "phone": "9876543210",
+  "state": "Mizoram",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "rentHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"rentHouse"
+}
+],
+"salesHouse":[
+{
+  "id": 1,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/bqeoarg2hdo01-IN/image;s=300x600;q=60"
+  ],
+  "price": "7,43,8,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Mizoram",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+,"type":"salesHouse"
+},
+{
+  "id": 2,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/k8rfxxlbcrtf2-IN/image;s=300x600;q=60"
+  ],
+  "price": "43,57,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Mizoram",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 3,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/k8rfxxlbcrtf2-IN/image;s=300x600;q=60"
+  ],
+  "price": "74,75,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Mizoram",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 4,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/bqeoarg2hdo01-IN/image;s=300x600;q=60"
+  ],
+  "price": "31,20,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "Manipur",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 5,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/a7fup0xdxxbr-IN/image;s=300x600;q=60"
+  ],
+  "price": "39,20,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "Manipur",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 6,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+  ],
+  "price": "52,65,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "6 June",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sahu Motors",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Manipur",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 7,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/fr8trhtar5nc-IN/image;s=300x600;q=60"
+  ],
+  "price": "85,85,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "3 June",
+  "isFeatured": "false",
+  "sellerName": "Ghosh Motors",
+  "memeberSince": "Aug 2018",
+  "phone": "9876543210",
+  "state": "Manipur",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 8,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/3i523blt2cze2-IN/image;s=300x600;q=60"
+  ],
+  "price": "43,45,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Manipur",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 9,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/a7fup0xdxxbr-IN/image;s=300x600;q=60"
+  ],
+  "price": "1,45,64,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "isFeatured": "false",
+  "sellerName": "Verma Wheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Manipur",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 10,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "68,25,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Rajesh Motors",
+  "memeberSince": "Jan 2016",
+  "phone": "9876543210",
+  "state": "Manipur",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 11,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "23,75,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "26 April",
+  "isFeatured": "false",
+  "sellerName": "Rajat Sahu",
+  "memeberSince": "Sep 2012",
+  "phone": "9876543210",
+  "state": "Manipur",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 12,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+  ],
+  "price": "56,35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "20 May",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sharma Motors",
+  "memeberSince": "Feb 2015",
+  "phone": "9876543210",
+  "state": "Meghalaya",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 13,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,89,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Oct 2012",
+  "phone": "9876543210",
+  "state": "Meghalaya",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 14,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "68,35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "isFeatured": "false",
+  "sellerName": "Kapil Pant",
+  "memeberSince": "Sep 2014",
+  "phone": "9876543210",
+  "state": "Meghalaya",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 15,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/6t5w2peg1x8u1-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,55,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "isFeatured": "false",
+  "sellerName": "Kiran",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Meghalaya",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 16,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/uo1mm2i8ax7n1-IN/image;s=300x600;q=60"
+  ],
+  "price": "64,75,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Sep 2016",
+  "phone": "9876543210",
+  "state": "Meghalaya",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 17,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+  ],
+  "price": "56,35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "20 May",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sharma Motors",
+  "memeberSince": "Feb 2015",
+  "phone": "9876543210",
+  "state": "Meghalaya",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 18,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+  ],
+  "price": "35,89,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 May",
+  "isFeatured": "false",
+  "sellerName": "Ghai Motors",
+  "memeberSince": "Oct 2012",
+  "phone": "9876543210",
+  "state": "Meghalaya",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 19,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/ej7s4rkv2v8k3-IN/image;s=300x600;q=60"
+  ],
+  "price": "68,35,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "yesterday",
+  "isFeatured": "false",
+  "sellerName": "Kapil Pant",
+  "memeberSince": "Sep 2014",
+  "phone": "9876543210",
+  "state": "Chhattisgarh",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 20,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/2g8rnldd2ra8-IN/image;s=300x600;q=60"
+  ],
+  "price": "34,45,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "4 June",
+  "isFeatured": "false",
+  "sellerName": "Albert",
+  "memeberSince": "Apr 2019",
+  "phone": "9876543210",
+  "state": "Chhattisgarh",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 21,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/bqeoarg2hdo01-IN/image;s=300x600;q=60"
+  ],
+  "price": "74,38,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 22,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/k8rfxxlbcrtf2-IN/image;s=300x600;q=60"
+  ],
+  "price": "43,57,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 23,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/k8rfxxlbcrtf2-IN/image;s=300x600;q=60"
+  ],
+  "price": "74,75,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 24,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/bqeoarg2hdo01-IN/image;s=300x600;q=60"
+  ],
+  "price": "31,62,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 25,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/a7fup0xdxxbr-IN/image;s=300x600;q=60"
+  ],
+  "price": "39,20,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 26,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/wp2238si3qw63-IN/image;s=300x600;q=60"
+  ],
+  "price": "52,65,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "6 June",
+  "totalOwners": 3,
+  "isFeatured": "false",
+  "sellerName": "Sahu Motors",
+  "memeberSince": "Sep 2015",
+  "phone": "9876543210",
+  "state": "Puducherry",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 27,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/fr8trhtar5nc-IN/image;s=300x600;q=60"
+  ],
+  "price": "85,85,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "3 June",
+  "isFeatured": "false",
+  "sellerName": "Ghosh Motors",
+  "memeberSince": "Aug 2018",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+},
+{
+  "id": 28,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/3i523blt2cze2-IN/image;s=300x600;q=60"
+  ],
+  "price": "43,45,000",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "5 June",
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jul 2019",
+  "phone": "9876543210",
+  "state": "Puducherry",
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "furnished": "semi-furnished",
+  "category": "salesHouse",
+  "floor": 2,
+  "carParking": 1,
+  "product_desc": "Newly constructed 2 bhk flat,2 big size bed rooms facing east ,1 semi modular kitchen, 2 bathroom, large balcony ,drawing room with walk ceiling and many things."
+  ,"type":"salesHouse"
+}
+],
+"freshrecomentation":[
+{
+  "id": 1,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/y17t0ga5v3jd2-IN/image;s=300x600;q=60"
+  ],
+  "price": "3,80,000",
+  "year": "2018",
+  "distance": "57,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Assam",
+  "category": "cars",
+  "brand": "Maruti Suzuki",
+  "model": "Swift Dzire",
+  "transmission": "Manual",
+  "product_desc": "Chevrolet Cruze 2011",
+  "type":"cars"
+},
+{
+  "id": 4,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/i7q5dwaz6ntd-IN/image;s=300x600;q=60"
+  ],
+  "price": "6,72,000",
+  "year": "2018",
+  "distance": "38,282",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "category": "cars",
+  "brand": "Mercedes-Benz",
+  "model": "CLA",
+  "transmission": "Automatic",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 5,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/9g814e1dezx7-IN/image;s=300x600;q=60"
+  ],
+  "price": "6,25,000",
+  "year": "2013",
+  "distance": "28,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "West Bengal",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 1,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/n3lknl74twfj-IN/image;s=300x600;q=60"
+  ],
+  "price": "38,000",
+  "year": "2018",
+  "distance": "57,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Kerala",
+  "category": "motorcycles",
+  "brand": "Honda",
+  "model": "CB",
+  "transmission": "Manual",
+  "product_desc": "Fix price no bargaining, Fix price no bargaining",
+  "type":"motorcyles"
+},
+{
+  "id": 2,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/0bg2cqqvmfbq3-IN/image;s=300x600;q=60"
+  ],
+  "price": "57,000",
+  "year": "2017",
+  "distance": "37,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Kerala",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 3,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/f2cq5n8431ta1-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2016",
+  "distance": "19,101",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Kerala",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 4,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/huhly9gz62651-IN/image;s=300x600;q=60"
+  ],
+  "price": "62,000",
+  "year": "2018",
+  "distance": "38,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "motorcycles",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Automatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 5,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/t93ng6uw1gxd1-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2013",
+  "distance": "28,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "Madhya Pradesh",
+  "category": "motorcycles",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain.",
+  "type":"motorcyles"
+},
+{
+  "id": 1,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cco69t3dt9yt3-IN/image;s=300x600;q=60"
+  ],
+  "price": "38,000",
+  "year": "2018",
+  "distance": "57,000",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "29 May",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "scooters",
+  "brand": "Honda",
+  "model": "CB",
+  "transmission": "Manual",
+  "product_desc": "Fix price no bargaining, Fix price no bargaining",
+  "type":"scooter"
+},
+{
+  "id": 2,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/r9ocm2xngwv72-IN/image;s=300x600;q=60"
+  ],
+  "price": "57,000",
+  "year": "2017",
+  "distance": "37,928",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 3,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/r9ocm2xngwv72-IN/image;s=300x600;q=60"
+  ],
+  "price": "75,000",
+  "year": "2016",
+  "distance": "19,101",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 4,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cco69t3dt9yt3-IN/image;s=300x600;q=60"
+  ],
+  "price": "62,000",
+  "year": "2018",
+  "distance": "38,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "21 May",
+  "totalOwners": 1,
+  "isFeatured": "false",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Feb 2019",
+  "phone": "9876543210",
+  "state": "Himachal Pradesh",
+  "category": "scooters",
+  "brand": "Hero Honda",
+  "model": "Splendor",
+  "transmission": "Automatic",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 5,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/q7lzqkyn393w3-IN/image;s=300x600;q=60"
+  ],
+  "price": "65,000",
+  "year": "2013",
+  "distance": "28,282",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "2 April",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "Pant Motors",
+  "memeberSince": "Aug 2017",
+  "phone": "9876543210",
+  "state": "Andhra Pradesh",
+  "category": "scooters",
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "transmission": "Manual",
+  "product_desc": "Bajaj Pulsar NS 160 ABS Aug'2019 model, Bike is in excellent condition, only 24100 km driven, insurance valid till 2024, price is fix please don't bargain."
+  ,"type":"scooter"
+},
+{
+  "id": 1,
+  "product_name": "T-shirt",
+  "img": "https://www.apetogentleman.com/wp-content/uploads/2019/06/best-mens-tshirts.jpg",
+  "product_desc": "Quia et suscipit ostrum Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae u  autem sunt rem eveniet architecto",
+  "price": "500",
+  "rating": 4.3,
+  "category": "mens",
+  "type":"clothes"
+},
+{
+  "id": 2,
+  "product_name": "Jeans",
+  "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gh-jeans-index-1552316663.png?crop=0.941xw:0.936xh;0.0304xw,0.0639xh&resize=1200:*",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "300",
+  "rating": 4.3,
+  "category": "mens",
+  "type":"clothes"
+},
+{
+  "id": 3,
+  "product_name": "Cargo",
+  "img": "https://5.imimg.com/data5/GP/MD/MY-49357258/mens-cargo-pant-500x500.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "400",
+  "rating": 4.3,
+  "category": "mens"
+  ,"type":"clothes"
+},
+{
+  "id": 4,
+  "product_name": "Shirts",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkD86VMIvuOUAne-qdiwi1m0dbk-f6Ou-3-Q&usqp=CAU",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "505",
+  "rating": 4.3,
+  "category": "unisex"
+  ,"type":"clothes"
+},
+{
+  "id": 5,
+  "product_name": "Jacket",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51-cw1DQaGL._AC_UL1000_.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "510",
+  "rating": 4.3,
+  "category": "mens",
+  "type":"clothes"
+},
+{
+  "id": 1,
+  "product_name": "Samsung Microwave",
+  "img": "https://images.samsung.com/is/image/samsung/in-21-litre-convection-microwave-oven-ce73jd-b-ce73jd-b-xtl-Black-121357600?$720_576_PNG$",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "500",
+  "rating": 4.3,
+  "category": "microwave",
+  "type":"electronics"
+},
+{
+  "id": 2,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/9g814e1dezx7-IN/image;s=300x600;q=60"
+  ],
+  "price": "5,67,000",
+  "year": "2017",
+  "distance": "37,928",
+  "fuel": "Diesel",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "23 May",
+  "totalOwners": 1,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Jan 2017",
+  "phone": "9876543210",
+  "state": "Assam",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 3,
+  "img": [
+    "https://apollo-singapore.akamaized.net/v1/files/cnazxhzzscz71-IN/image;s=300x600;q=60"
+  ],
+  "price": "7,75,000",
+  "year": "2016",
+  "distance": "19,101",
+  "fuel": "Petrol",
+  "address": "Pitampura, Delhi, Delhi",
+  "postDate": "1 June",
+  "totalOwners": 2,
+  "isFeatured": "true",
+  "sellerName": "ZoomWheels",
+  "memeberSince": "Sep 2005",
+  "phone": "9876543210",
+  "state": "Assam",
+  "category": "cars",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "transmission": "Manual",
+  "product_desc": "mint condition 7 seater car non accidental finance available serious buyers only call Aas Motors",
+  "type":"cars"
+},
+{
+  "id": 2,
+  "product_name": "MI LED TV",
+  "img": "https://global.appmifile.com/webfile/globalimg/in/cms/A7442D32-F379-BD0A-4B22-A262258E2756.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "300",
+  "rating": 4.3,
+  "category": "television",
+  "type":"electronics"
+},
+{
+  "id": 3,
+  "product_name": "Koryo Microwave",
+  "img": "https://www.hometown.in/media/product/19/0163/58389/1.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "400",
+  "rating": 4.3,
+  "category": "microwave",
+  "type":"electronics"
+},
+{
+  "id": 4,
+  "product_name": "Samsung Refrigerator",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/71O31clz6mL._SL1500_.jpg",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "505",
+  "rating": 4.3,
+  "category": "refrigerator",
+  "type":"electronics"
+},
+{
+  "id": 5,
+  "product_name": "Smasung 32 inch",
+  "img": "https://images.samsung.com/is/image/samsung/in-hd-tv-te40a-ua32te40aakxxl-frontgray-231880322?$720_576_PNG$",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "510",
+  "rating": 4.3,
+  "category": "television",
+  "type":"electronics"
+},
+{
+  "id": 6,
+  "product_name": "Haier Microwave",
+  "img": "https://rukminim1.flixcart.com/image/416/416/kcz4rrk0/microwave-new/w/3/5/hil3001cbsh-haier-original-imaftz57hmgny73d.jpeg?q=70",
+  "product_desc": "Quia et suscipit strum rerum est autem sunt rem eveniet architecto Quia et suscipit\nsuscipit recusandae consequuntur autem sunt rem eveniet architecto",
+  "price": "560",
+  "rating": 4.3,
+  "category": "microwave",
+  "type":"electronics"
+}
+]
+}
